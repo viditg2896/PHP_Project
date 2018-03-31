@@ -1,0 +1,14 @@
+{
+    "name": "vidit/php_project",
+    "description": "Resume Generator with FPDF",
+    "type": "project",
+    "authors": [
+        {
+            "name": "viditg2896",
+            "email": "guptavidit08@gmail.com"
+        }
+    ],
+    "require": {
+        "setasign/fpdf": "1.8.1"
+    }
+}
