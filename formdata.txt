@@ -1,0 +1,90 @@
+
+PHP Resume Builder
+Personal Information
+Name
+
+Vidit Gupta
+Email
+
+guptavidit08@gmail.com
+Phone
+
+9887962847
+Location
+
+Chennai
+Objective
+
+SRM University CSE | Front-End Web Developer | NLU Enthusiast
+
+I am a go-getter looking for opportunities to work and grow in a competitive environment.
+Work Experience
+Experience 1
+Company Name
+
+MakeMyTrip Pvt Ltd
+Role
+
+Online Products Intern
+Period
+
+Jun 2017 - Jul 2017
+Highlights
+
+- Created an intent parsing engine using MIT's NLU libraries.
+- Did UX Analysis of various online travel agents like AirBnB, Booking.com, Flipkey etc.
+
+Experience 2
+Company Name
+
+Saral Softech Private Limited, Kota, Rajasthan
+Role
+
+Front-End Web Developer - Intern
+Period
+
+Dec 2016 - Jan 2017
+Highlights
+
+- Designed the company website (www.saralerp.com) using Adobe Photoshop and Illustrator.
+- Developed the front-end using HTML & CSS.
+Skillset
+Skills & Technologies
+
+C,C++,Java,Assembly Language,Scilab,Visual Basic,Python,JavaScript,SQL,HTML5,CSS3,Adobe Creative Suite,NodeJS,.NET,AngularJS,Bootstrap 3
+Education
+University/College
+Name
+
+SRM University
+Period
+
+May 2015 - June 2019
+CGPA
+
+7.93
+Senior Secondary School
+Name
+
+Maheshwari Public School
+Year
+
+2014
+Percentage
+
+80.8%
+Secondary School
+Name
+
+Modern School
+Year
+
+2012
+Percentage
+
+95%
+Interests
+Interests & Hobbies
+
+Competitive video games, travel, books,  keeping up with the latest technology and developments within the industry.
+
